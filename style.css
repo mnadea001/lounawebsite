@@ -161,6 +161,7 @@ definition du margin en em pour le responsive */
   margin: 1em 0;
 }
 
+.card1 p {margin-top:10px;}
 /* effects */
 .card1 figure img {
 	-webkit-transform: rotate(15deg) scale(1.4);
@@ -228,6 +229,7 @@ figure {
   width: 30%;
   margin: 1em 0;
 }
+.card2 p {margin-top:10px;}
 /* effects */
 .card2 figure img {
 	-webkit-transform: rotate(15deg) scale(1.4);
@@ -288,7 +290,7 @@ figure {
   width: 30%;
   margin: 1em 0;
 }
-
+.card3 p {margin-top:10px;}
 /* effects */
 .card3 figure img {
 	-webkit-transform: rotate(15deg) scale(1.4);
@@ -348,6 +350,7 @@ figure {
   width: 30%;
   margin: 1em 0;
 }
+.card4 p {margin-top:10px;}
 /* effects */
 .card4 figure img {
 	-webkit-transform: rotate(15deg) scale(1.4);
@@ -459,6 +462,7 @@ figure {
   padding: 1em 1em;
   position: relative;
   top: -0.5em;
+  font-weight: bold;
 }
 
 .boitecontact li {
